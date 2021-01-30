@@ -1,0 +1,16 @@
+*.hmap
+*.ipa
+*.xcuserstate
+# Android/IntelliJ
+#
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+# fastlane
+#
+# Bundle artifact
+*.jsbundle
+# CocoaPods
+/ios/Pods/
+node_modules

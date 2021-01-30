@@ -1,5 +1,12 @@
 {
-  "sign_in": [],
+  "sign_in": [
+    {
+      "name": "Camilod",
+      "last_name": "dddd",
+      "mail": "ddd@ddd.com",
+      "id": 1
+    }
+  ],
   "books": [
     {
       "id": 1,
@@ -8,7 +15,19 @@
       "genre": "Short story",
       "publisher": "Butterworth-Heinemann",
       "year": "1968",
-      "image_url": null
+      "image_url": null,
+      "comments": [
+        {
+          "user": "Jhon Appleseed",
+          "image_user": "img_user1.png",
+          "comment": "It was great to see you again earlier."
+        },
+        {
+          "user": "Susan Collins",
+          "image_user": "img_user2.png",
+          "comment": "Let's definitely get that coffe It was great to see you again earlier."
+        }
+      ]
     },
     {
       "id": 2,
@@ -44,7 +63,19 @@
       "genre": "suspense",
       "publisher": "Pocket Books",
       "year": "1989",
-      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/6963511-M.jpg"
+      "image_url": "http://wolox-training.s3.amazonaws.com/uploads/6963511-M.jpg",
+      "comments": [
+        {
+          "user": "Jhon Appleseed",
+          "image_user": "img_user1.png",
+          "comment": "It was great to see you again earlier."
+        },
+        {
+          "user": "Susan Collins",
+          "image_user": "img_user2.png",
+          "comment": "Let's definitely get that coffe It was great to see you again earlier."
+        }
+      ]
     },
     {
       "id": 6,
