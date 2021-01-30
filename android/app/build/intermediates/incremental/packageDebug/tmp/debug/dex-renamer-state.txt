@@ -1,0 +1,4 @@
+#Fri Jan 29 16:16:19 CLST 2021
+base.0=/home/dev/Escritorio/Projects/Personal/wolox/react-native-technical-interview/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
